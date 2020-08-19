@@ -1,6 +1,6 @@
 ![alt text](https://zeynepstefan.com/wp-content/uploads/2018/04/creditrisk.jpg)
 # German_Credit_Risk_Prediction
-Making predictions about the german credit risk data set from kaggle. [Kaggle](https://www.kaggle.com/kabure/german-credit-data-with-risk).
+Making predictions about the german credit risk data set from [Kaggle](https://www.kaggle.com/kabure/german-credit-data-with-risk).
 
 # Aim:
 Making risk prediction based on given features.
